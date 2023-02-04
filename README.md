@@ -2,14 +2,14 @@
 ## Seja bem vindo(a) ao meu perfil Github &#x1F596;
 - 💻 Eterno estudante de tecnologia que ama programação, jogos🎮, música🎵 e um bom café ☕!
 - 🎓 Formando em análise e desenvolvimento de sistemas
-- 📚 Atualmente estou aprofundando conhecimentos em tecnologias Front-End
+- 📚 Atualmente estou focado em tecnologias de Desenvolvimento Web
 - 📈 Meu objetivo é me tornar um desenvolvedor Full-Stack 
 
 
 ## 🔨 Ferramentas e tecnologias de estudo:
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width='40px' height='40px'/><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='40px' height='40px' /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width='40px' height='40px'/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='40px' height='40px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='40px' height='40px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width='50px' height='50px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width='40px' height='40px'/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width='50px' height='50px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width='40px' height='40px'/>
           
           
