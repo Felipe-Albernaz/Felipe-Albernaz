@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo @Felipe-Albernaz!
 ## Seja bem vindo(a) ao meu perfil Github &#x1F596;
-- 💻 Estudante de tecnologia que ama programação, jogos🎮, música🎵 e um bom café ☕!
+- 💻 Estudante de tecnologia fascinado com programação, jogos🎮, música instrumental e um bom café ☕!
 - 🎓 Formando em análise e desenvolvimento de sistemas
 - 📚 Atualmente estou focado em tecnologias de Desenvolvimento Web
 - 📈 Meu objetivo é me tornar um desenvolvedor Full-Stack 
